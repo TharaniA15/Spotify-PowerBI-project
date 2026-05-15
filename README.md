@@ -132,10 +132,5 @@ Spotify Project/
 
 ---
 
-## 🔗 Future Improvements
 
-* Add real-time Spotify API integration
-* Improve mobile responsiveness
-* Add advanced predictive analytics
-* Publish dashboard to Power BI Service
 
